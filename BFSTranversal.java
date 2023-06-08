@@ -52,7 +52,7 @@ public class BFSTranversal {
         graph.insertEgde(3, 1);
         graph.insertEgde(5, 4);
         graph.insertEgde(5, 3);
-        System.out.println("Breadth FIrst Traversal for the graph is: ");
+        System.out.println("Breadth First Traversal for the graph is: ");
         graph.BFS(0);
 
 }
